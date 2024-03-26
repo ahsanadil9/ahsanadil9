@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ahsanadil9"><img src="https://github-profile-trophy.vercel.app/?username=ahsanadil9" alt="ahsanadil9" /></a> </p>
 
-- 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone](https://california-pizza-clone.vercel.app/)
+- 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone](https://california-pizza-clone.vercel.app/) & (https://california-clone-admin-panel.vercel.app/)
 
 - 🌱 I’m currently learning Backend **Node JS, Express JS**
 
