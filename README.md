@@ -7,7 +7,7 @@
 
 <h2 align="center">Current Focus</h2>
 
-- 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone Client](https://california-pizza-clone.vercel.app/) & [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
+- 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/). The admin and backend are in progress, while the client site is completed and publicly accessible.
   
  ## Project Status
 
