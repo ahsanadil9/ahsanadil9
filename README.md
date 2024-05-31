@@ -11,7 +11,7 @@
 
 - **Client Site**: The client site is now live and publicly accessible.
    - [California Pizza Clone Client](https://california-pizza-clone.vercel.app/)
-   - [GitHub Repository](https://github.com/yourusername/california-pizza-clone)
+   - [GitHub Repository](https://github.com/ahsanadil9/CaliforniaPizza-Clone-Client)
     
 - **Backend**: In progress.
 
