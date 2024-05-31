@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ahsanadil9"><img src="https://github-profile-trophy.vercel.app/?username=ahsanadil9" alt="ahsanadil9" /></a> </p>
 
-<h2 align="center">Current Focus</h2>
+<h1 align="center">Current Focus</h1>
 
-- 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/). The admin and backend are in progress, while the client site is completed and publicly accessible.
+- 🔭 I’m currently working on Next JS developing full stack(NextJS & NodeJS). The admin and backend are in progress, while the client site is completed and publicly accessible.
   
  ## Project Status
 
@@ -16,6 +16,7 @@
    - [GitHub Repository](https://github.com/ahsanadil9/CaliforniaPizza-Clone-Client)
     
 - **Backend**: In progress.
+   [GitHub Repository](https://github.com/ahsanadil9/CaliforniaPizza-Clone-Backend)
 
 - **Admin Panel**: In progress.
    [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
