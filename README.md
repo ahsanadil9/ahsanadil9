@@ -10,8 +10,9 @@
  ## Project Status
 
 - **Client Site**: The client site is now live and publicly accessible.
-   [California Pizza Clone Client](https://california-pizza-clone.vercel.app/)
-
+   - [California Pizza Clone Client](https://california-pizza-clone.vercel.app/)
+   - [GitHub Repository](https://github.com/yourusername/california-pizza-clone)
+    
 - **Backend**: In progress.
 
 - **Admin Panel**: In progress.
