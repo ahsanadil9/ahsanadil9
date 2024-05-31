@@ -7,7 +7,7 @@
 
 <h1 align="center">Current Focus</h1>
 
-- 🔭 I’m currently working on Next JS developing full stack(NextJS & NodeJS). The admin and backend are in progress, while the client site is completed and publicly accessible.
+- 🔭 I’m currently working on Next JS developing full stack(NextJS & NodeJS). The admin panel and backend are in progress, while the client site is completed and publicly accessible.
   
  ## Project Status
 
@@ -21,7 +21,7 @@
 - **Admin Panel**: In progress.
    [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
 
-
+---
 - 🌱 I’m currently learning Backend **Node JS, Express JS**
 
 - 👨‍💻 All of my projects are available at [https://muhammadahsanadil.vercel.app/](https://muhammadahsanadil.vercel.app/)
