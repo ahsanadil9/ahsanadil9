@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan Adil</h1>
-<h3 align="center">As a devoted frontend enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanadil9&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanadil9" /> </p>
 
 <p align="left"> <a href="https://github.com/ahsanadil9"><img src="https://github-profile-trophy.vercel.app/?username=ahsanadil9" alt="ahsanadil9" /></a> </p>
 
-- 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone Client](https://california-pizza-clone.vercel.app/) & [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
+- ## Project Status
+
+- **Client Site**: The client site is now live and publicly accessible.
+  - [California Pizza Clone Client](https://california-pizza-clone.vercel.app/)
+
+- **Backend**: In progress.
+
+- **Admin Panel**: In progress.
+  - [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
+
 
 - 🌱 I’m currently learning Backend **Node JS, Express JS**
 
