@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ahsanadil9"><img src="https://github-profile-trophy.vercel.app/?username=ahsanadil9" alt="ahsanadil9" /></a> </p>
 
+<h2 align="center">Current Focus</h2>
 - 🔭 I’m currently working on Next JS developing full stack [California Pizza Clone Client](https://california-pizza-clone.vercel.app/) & [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
   
  ## Project Status
