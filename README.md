@@ -22,7 +22,7 @@
    [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
 
 ---
-- 🌱 I’m currently learning Backend **Node JS, Express JS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://muhammadahsanadil.vercel.app/](https://muhammadahsanadil.vercel.app/)
 
