@@ -12,13 +12,13 @@
  ## Project Status
 
 - **SafeCommerce**: Ecommerce platform with devops and full-stack.
-   - [GitHub Repository](https://github.com/ahsanadil9/Safecommerce-devops-web)
+   - [GitHub Repository](https://github.com/ahsanadil9/Safecommerce-devops-web) [In Progress]
 ---
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning and practically implementing **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://muhammadahsanadil.vercel.app/](https://muhammadahsanadil.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ahsanadil.com//](https://ahsanadil.com/)
 
-- 💬 Ask me about **Frontend Development Technologies**
+- 💬 Ask me about **Frontend/Backend Development Technologies**
 
 - 📫 How to reach me **muhammadmahsanadil@gmail.com**
 
