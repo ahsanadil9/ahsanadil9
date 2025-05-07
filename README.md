@@ -11,16 +11,8 @@
   
  ## Project Status
 
-- **Client Site**: The client site is now live and publicly accessible.
-   - [California Pizza Clone Client](https://california-pizza-clone.vercel.app/)
-   - [GitHub Repository](https://github.com/ahsanadil9/CaliforniaPizza-Clone-Client)
-    
-- **Backend**: In progress.
-   [GitHub Repository](https://github.com/ahsanadil9/CaliforniaPizza-Clone-Backend)
-
-- **Admin Panel**: In progress.
-   [California Pizza Clone Admin](https://california-clone-admin-panel.vercel.app/)
-
+- **SafeCommerce**: Ecommerce platform with devops and full-stack.
+   - [GitHub Repository](https://github.com/ahsanadil9/Safecommerce-devops-web)
 ---
 - 🌱 I’m currently learning **DevOps**
 
