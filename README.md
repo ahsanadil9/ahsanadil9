@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahsanadil76401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahsanadil76401" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/mahsanadil76401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahsanadil76401" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/muhammad-ahsan-adil-a97a1a246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahsan-adil-a97a1a246" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahsan.adil.3726/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahsanadil221" height="30" width="40" /></a>
 <a href="https://instagram.com/m_ahsanadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsan_adil9" height="30" width="40" /></a>
